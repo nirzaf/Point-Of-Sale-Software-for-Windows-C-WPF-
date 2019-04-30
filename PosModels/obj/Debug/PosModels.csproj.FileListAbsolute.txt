@@ -12,3 +12,12 @@ K:\Viipe.com\TemPOS\PosModels\bin\Debug\TemposLibrary.pdb
 K:\Viipe.com\TemPOS\PosModels\obj\Debug\PosModels.csprojResolveAssemblyReference.cache
 K:\Viipe.com\TemPOS\PosModels\obj\Debug\PosModels.dll
 K:\Viipe.com\TemPOS\PosModels\obj\Debug\PosModels.pdb
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\bin\Debug\PosModels.dll
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\bin\Debug\PosModels.pdb
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\bin\Debug\TemposLibrary.dll
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\bin\Debug\TemposLibrary.pdb
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\obj\Debug\PosModels.csprojAssemblyReference.cache
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\obj\Debug\PosModels.csproj.CoreCompileInputs.cache
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\obj\Debug\PosModels.csproj.CopyComplete
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\obj\Debug\PosModels.dll
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\PosModels\obj\Debug\PosModels.pdb

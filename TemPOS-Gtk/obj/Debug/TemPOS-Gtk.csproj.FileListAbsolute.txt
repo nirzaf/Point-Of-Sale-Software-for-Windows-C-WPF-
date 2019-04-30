@@ -1,0 +1,1 @@
+C:\Users\Nirzaf\Source\Repos\Point-Of-Sale-Software-for-Windows-C-WPF-\TemPOS-Gtk\obj\Debug\TemPOS-Gtk.csproj.CoreCompileInputs.cache
